@@ -1,6 +1,6 @@
 <h2><a href="https://stratij-canoon.github.io/"><img src="get-Started.png"></a></h2>
 
-<p>Have you recently purchased a new Canon IJ printer? Well! To use the device, you need to complete <strong>ij.start.canon</strong> and download the latest printer drivers for it.  The Canon IJ printer allows users to enjoy wireless printing services using their windows as well as Mac devices. Canon is the most reliable and trusted device for printing wireless document security.  In this guide, you will learn how to set up a Canon IJ printer to make it ready for printing the documents.</p>
+<p>Have you recently purchased a new Canon IJ printer? Well! To use the device, you need to complete <strong><a href="https://stratij-canoon.github.io">ij.start.canon</a></strong> and download the latest printer drivers for it.  The Canon IJ printer allows users to enjoy wireless printing services using their windows as well as Mac devices. Canon is the most reliable and trusted device for printing wireless document security.  In this guide, you will learn how to set up a Canon IJ printer to make it ready for printing the documents.</p>
 <h2>Canon IJ printer setup: Guidelines To Follow</h2>
 
 <p>Below  we are sharing the step-by-step instructions that will let you complete the <strong>ij.start.canon</strong> setup for your network:</p>
