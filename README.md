@@ -29,7 +29,7 @@
   
  <h3>How to set up a Canon IJ printer using a USB connection?</h3>
  
- <p> To set up a <stong> ij.start.canon </strong> with a USB connection, follow the steps below: </p>
+ <p>To set up a <strong> ij.start.canon</strong> with a USB connection, follow the steps below: </p>
 
 <br>
 
