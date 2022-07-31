@@ -112,8 +112,8 @@
 <li>Establish a secure Wi-Fi connection with your printing device.</li>
 <li>Visit "ij.start.canon" and install the appropriate printer drivers.</li>
 <li>Go to the " system preferences". Choose "printer and scanner".</li>
-<li>Click the "+" button to select the printer from the available list of devices.<li>
-<li>Click the "Add" button to add the printer to your Mac computer.<li>
+<li>Click the "+" button to select the printer from the available list of devices.</li>
+<li>Click the "Add" button to add the printer to your Mac computer.</li>
   
   <br>
 </ul>
