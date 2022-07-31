@@ -42,8 +42,7 @@
 <li>Click the " complete" button for Windows computers.  And, for Mac devices, you have to click on the Ok button to connect your printer.</li>
 <li>Choose the " Add a printer"  option, select the appropriate drivers for your device. Hit the "Add" button.</li>
 <li>Hit the " next" button for completing the canon printer setup using the USB cable.</li>
-  
-  </ul>
+</ul>
  <br>
  
 <h4>Setup Canon Printer Wirelessly: Steps to follow</h4>
