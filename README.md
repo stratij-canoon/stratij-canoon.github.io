@@ -3,7 +3,7 @@
 <p>Have you recently purchased a new Canon IJ printer? Well! To use the device, you need to complete <strong><a href="https://stratij-canoon.github.io">ij.start.canon</a></strong> and download the latest printer drivers for it.  The Canon IJ printer allows users to enjoy wireless printing services using their windows as well as Mac devices. Canon is the most reliable and trusted device for printing wireless document security.  In this guide, you will learn how to set up a Canon IJ printer to make it ready for printing the documents.</p>
 <h2>Canon IJ printer setup: Guidelines To Follow</h2>
 
-<p>Below  we are sharing the step-by-step instructions that will let you complete the <strong>ij.start.canon</strong> setup for your network:</p>
+<p>Below  we are sharing the step-by-step instructions that will let you complete the <strong><a href="https://stratij-canoon.github.io">ij.start.canon</a></strong> setup for your network:</p>
 
 <br>
 <ul>
@@ -16,7 +16,7 @@
   
   <h2>How to download canon printer drivers?</h2>
   
-  <p>To enjoy reliable printing services, you need to install Canon printer drivers for your device. For this, you can visit the <strong>ij.start.canon</strong>
+  <p>To enjoy reliable printing services, you need to install Canon printer drivers for your device. For this, you can visit the <strong><a href="https://stratij-canoon.github.io">ij.start.canon</a></strong>
   website and get the printer drivers downloaded to your system. Here are the guidelines you are supposed to follow for this:</p>
   <br>
   <ul>
@@ -31,7 +31,7 @@
   
  <h3>How to set up a Canon IJ printer using a USB connection?</h3>
  
- <p>To set up a <strong> ij.start.canon</strong> with a USB connection, follow the steps below: </p>
+ <p>To set up a <strong> <a href="https://stratij-canoon.github.io">ij.start.canon</a></strong> with a USB connection, follow the steps below: </p>
 
 <br>
 
@@ -53,7 +53,7 @@
 
 <ul>
   
-  <li>Visit the ij.start.canon website using a web browser.</li>
+  <li>Visit the <a href="https://stratij-canoon.github.io">ij.start.canon</a> website using a web browser.</li>
 <li>Select the appropriate operating system.</li>
 <li>Enter your printer model number in the search bar.</li>
 <li>Hit the " install printer" button.</li>
@@ -80,7 +80,7 @@
 <li>Choose " wireless LAN setup".</li>
 <li>Your canon printer will start looking for the available Wi-Fi network and show you the list.</li>
 <li>Choose the network to which you would like to get connected. Provide the login credentials for connecting your Canon printer to Wi-Fi.</li>
-  <li>Open the web browser on visit and the <strong>ij.start.canon</strong> website on your computer.</li>
+  <li>Open the web browser on visit and the <strong><a href="https://stratij-canoon.github.io">ij.start.canon</a></strong> website on your computer.</li>
 <li>From the website, download appropriate printer drivers.</li>
 <li>Once you are done, you can begin to print the documents.</li>
 
@@ -111,7 +111,7 @@
   
 <li> Turn on your Mac computer, Canon printer, and Wi-Fi modem.</li>
 <li>Establish a secure Wi-Fi connection with your printing device.</li>
-<li>Visit "ij.start.canon" and install the appropriate printer drivers.</li>
+  <li>Visit <a href="https://stratij-canoon.github.io">"ij.start.canon"</a> and install the appropriate printer drivers.</li>
 <li>Go to the " system preferences". Choose "printer and scanner".</li>
 <li>Click the "+" button to select the printer from the available list of devices.</li>
 <li>Click the "Add" button to add the printer to your Mac computer.</li>
@@ -124,7 +124,7 @@
 <ul>
   
 <li>Connect your smartphone to the internet.</li>
-<li>Open the Google Play Store and download the ij.start.canon setup application.</li>
+<li>Open the Google Play Store and download the <a href="https://stratij-canoon.github.io">ij.start.canon</a> setup application.</li>
 <li>Keep your document ready to take the printout.</li>
 <li>Preview the document and customize the settings for printing.</li>
 <li>From the list of available printers, select your printer. Select the document you would like to print.</li>
